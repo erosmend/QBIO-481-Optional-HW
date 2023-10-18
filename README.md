@@ -1,2 +1,2 @@
-# QBIO-481-Optional-HW
+# QBIO 481
 # Name: Eros Mendoza
